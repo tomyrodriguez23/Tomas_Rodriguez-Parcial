@@ -9,7 +9,7 @@ function App() {
       <form></form>
       <Card/>
     </div>
-  )
+      )
 }
 
 export default App
